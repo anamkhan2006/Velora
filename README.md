@@ -1,1 +1,1 @@
-# Velora_project 
+# Velora_ecommerce_project 
